@@ -1,6 +1,6 @@
 # Useful Sites
 
-![linux](http://cdoco.com/images/icon.gif)
+![Cdoco](http://cdoco.com/images/icon.gif)
 
 ## 目录
 
@@ -69,7 +69,7 @@
 - [第一个cpp php 扩展](http://donbe.blog.163.com/blog/static/13804802120102152191683/)
 - [PHP内核中的神器之HashTable](http://blog.csdn.net/a600423444/article/details/8850617)
 - [PHP内核探索：PHP哈希算法设计](http://www.nowamagic.net/librarys/veda/detail/1349)
-- [深入PHP内核（三）——内核利器哈希表与哈希碰撞攻击](http://www.csdn.net/article/2014-10-16/2822134)
+- [深入PHP内核：内核利器哈希表与哈希碰撞攻击](http://www.csdn.net/article/2014-10-16/2822134)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
 - [深入理解Yii2.0](http://www.digpage.com/)
 - [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
@@ -77,7 +77,7 @@
 - [PHP内核中读取$_GET\$_POST等全局变量](http://blog.csdn.net/a600423444/article/details/7678164)
 - [在Windows下编译PHP和PHP扩展](https://blog.ianli.site/2013/09/build-php-and-extension-for-windows/)
 - [Zephir入门](https://segmentfault.com/a/1190000003058736)
-- [关于做PHP扩展开发的一些资源)](http://www.laruence.com/2011/09/13/2139.html)
+- [关于做PHP扩展开发的一些资源](http://www.laruence.com/2011/09/13/2139.html)
 - [启用php-fpm状态详解](http://www.ttlsa.com/php/use-php-fpm-status-page-detail/)
 - [用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
 - [Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
