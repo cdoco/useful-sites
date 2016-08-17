@@ -9,14 +9,14 @@
 - [算法](#算法)
 - [架构](#架构)
 - [邮件](#邮件)
-- [PHP](#PHP)
-- [Android](#Android)
-- [Memcache](#Memcache)
-- [Redis](#Redis)
-- [Linux](#Linux)
-- [Docker](#Docker)
-- [Vagrant](#Vagrant)
-- [VPN](#VPN)
+- [PHP](#php)
+- [Android](#android)
+- [Memcache](#memcache)
+- [Redis](#redis)
+- [Linux](#linux)
+- [Docker](#docker)
+- [Vagrant](#vagrant)
+- [VPN](#vpn)
 
 ## 搜索
 
