@@ -15,13 +15,13 @@
     - [官方资源](#官方资源)
     - [框架](#框架)
     - [扩展开发](#扩展开发)
-    - [其他文章](#其他文章)
+    - [PHP相关文章](#php相关文章)
 - [Android](#android)
 - [Memcache](#memcache)
 - [Redis](#redis)
 - [Linux](#linux)
     - [发行版官方网站](#发行版官方网站)
-    - [其他文章](#其他文章)
+    - [Linux相关文章](#linux相关文章)
 - [Docker](#docker)
 - [Vagrant](#vagrant)
 - [VPN](#vpn)
@@ -140,7 +140,7 @@
 - [用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
 - [Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
 
-### 其他文章 
+### PHP相关文章 
 
 - [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
@@ -205,7 +205,7 @@
 - [Arch Linux](https://www.archlinux.org/) - Arch Linux(或称Arch) 是一种以轻量简洁为设计理念的 Linux 发行版
 - [Kali](http://www.kali.org/) - Kali 是一个基于 Debian 的 Linux 发行版，包含很多安全和取证方面的相关工具
 
-### 其他文章
+### Linux相关文章
 
 - [Linux常用命令合集](http://itlab.idcquan.com/linux/special/linuxcom/)
 - [五分钟内搭建 Linux 0.11 的实验环境](http://www.tinylab.org/take-5-minutes-to-build-linux-0-11-experiment-envrionment/)
