@@ -20,6 +20,8 @@
 - [Memcache](#memcache)
 - [Redis](#redis)
 - [Linux](#linux)
+    - [发行版官方网站](#发行版官方网站)
+    - [其他文章](#其他文章)
 - [Docker](#docker)
 - [Vagrant](#vagrant)
 - [VPN](#vpn)
@@ -190,6 +192,8 @@
 
 ## Linux
 
+### 发行版官方网站
+
 - [Linux kernel](https://github.com/torvalds/linux) - Linux 源码, gihub 地址
 - [elementary OS](http://elementary.io/) - 号称最漂亮的桌面 Linux 系统
 - [Fedora](https://getfedora.org/) - Fedora 是一个 Linux 发行版，是一款由全球社区爱好者构建的面向日常应用的快速、稳定、强大的操作系统
@@ -200,6 +204,25 @@
 - [Mageia](http://www.mageia.org/) - Mageia 是一个基于 Mandriva Linux 的新发行版
 - [Arch Linux](https://www.archlinux.org/) - Arch Linux(或称Arch) 是一种以轻量简洁为设计理念的 Linux 发行版
 - [Kali](http://www.kali.org/) - Kali 是一个基于 Debian 的 Linux 发行版，包含很多安全和取证方面的相关工具
+
+### 其他文章
+
+- [Linux常用命令合集](http://itlab.idcquan.com/linux/special/linuxcom/)
+- [五分钟内搭建 Linux 0.11 的实验环境](http://www.tinylab.org/take-5-minutes-to-build-linux-0-11-experiment-envrionment/)
+- [pidstat - 监控并统计Linux进程的数据](http://www.th7.cn/system/lin/201501/80420.shtml)
+- [Linux mount Windows目录遇到 write-protected 问题](http://blog.csdn.net/yasi_xi/article/details/38356247)
+- [Linux下搭建DNS教程,怎么\如何搭建DNS服务器](http://jingyan.baidu.com/article/454316ab56277df7a6c03a6a.html)
+- [Linux tcpdump命令详解](http://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html)
+- [Linux中压缩、解压缩(tar/zip/bzip2/gz/gzip/zip)](http://blog.sina.com.cn/s/blog_9fc1dd8501013fsv.html)
+- [linux系统引导流程详解](http://blog.csdn.net/mayanling0113/article/details/7064672)
+- [Centos学习笔记—系统引导](http://blog.csdn.net/wangyaninglm/article/details/7256571)
+- [Linux用户管理](http://www.cnblogs.com/feisky/archive/2009/11/22/1607931.html)
+- [CentOS中vsftp安装与配置](http://my.oschina.net/u/130017/blog/15229)
+- [CentOS 5.5下FTP安装及配置](http://www.blogjava.net/Alpha/archive/2012/02/02/369246.html)
+- [iptables 命令](http://www.cnblogs.com/wangkangluo1/archive/2012/04/19/2457063.html)
+- [linux之ACL授权](http://hanqunfeng.iteye.com/blog/2007674)
+- [如何在Linux下统计高速网络中的流量](http://www.geekfan.net/5558/)
+- [Linux 下git的安装](http://lzqustc.iteye.com/blog/415735)
 
 ## Docker
 
@@ -219,3 +242,5 @@
 - [GreenVPN](https://www.getgreenjsq.org) - 鄙人一直在用的VPN
 - [SS-Link](http://www.ss-link.com/) - 专业提供Shadowsocks账号
 - [Shadowsocks](https://shadowsocks.com/)
+
+**[⬆ top](#目录)**
