@@ -32,7 +32,7 @@
 
 ## 在线生成工具
 
-- [在线工具合集](http://www.myscloud.cn/) - 集成了很多好用的在线工具
+- [在线工具合集](http://tool.lu/) - 集成了很多好用的在线工具
 - [Bejson](http://www.bejson.com/) - 在线 json 格式化工具
 - [草料二维码](http://cli.im/) - 在线生成二维码
 - [在线编码转换](http://tool.oschina.net/encode?type=4) - 在线 urldecode 工具
