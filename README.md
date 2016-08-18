@@ -55,6 +55,7 @@
 - [十大编程算法助程序员走上高手之路](http://www.lupaworld.com/article-242544-3.html)
 - [动画展示各种路径搜索算法](http://www.webhek.com/pathfinding)
 - [趣味算法：字符串反转的N种方法](http://www.cnblogs.com/kirinboy/archive/2010/04/23/reverse-a-string.html)
+- [五分钟理解一致性哈希算法(consistent hashing)](http://blog.csdn.net/cywosp/article/details/23397179/)
 
 ## 架构
 
@@ -117,6 +118,7 @@
 
 ### 扩展开发
 
+- [深入理解PHP内核](http://www.php-internals.com/) - TIPI项目是一个自发项目, 项目主要关注PHP的内部实现, 以及PHP相关的方方面面
 - [PHP-CPP](http://www.php-cpp.com/) - php 的一个 C++ 库, 可以用 C++ 来写 php扩展
 - [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md)
 - [用PHP扩展实现类](http://cdoco.com/2016/03/09/php-ext-class/)
