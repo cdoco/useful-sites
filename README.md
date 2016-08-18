@@ -16,6 +16,7 @@
     - [框架](#框架)
     - [扩展开发](#扩展开发)
     - [PHP相关文章](#php相关文章)
+- [前端](#前端)
 - [Android](#android)
 - [Memcache](#memcache)
 - [Redis](#redis)
@@ -109,6 +110,7 @@
 ### 框架
 
 - [Yaf](https://github.com/laruence/yaf) - 用 C 扩展写的框架
+- [Slim](http://www.slimframework.com/) - 一个轻量级的框架
 - [Aura PHP](http://auraphp.com/) - 一个独立的组件框架
 - [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架 (CP)
 - [Laravel 5](https://laravel.com/) - 另一个 PHP 框架 (L5)
@@ -142,6 +144,7 @@
 
 ### PHP相关文章 
 
+- [LNMP一键安装](http://lnmp.org/)
 - [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
 - [深入理解Yii2.0](http://www.digpage.com/)
@@ -165,6 +168,21 @@
 - [php检测访问者是否为手机](http://blog.csdn.net/ihelloworld/article/details/7702328)
 - [PHP 大日志文件读写](http://www.oschina.net/code/snippet_107609_10991)
 - [php聊天室架构及代码](http://blog.csdn.net/woihh/article/details/2293652)
+
+## 前端
+
+- [前端乱炖, 最专业的前端技术内容社区](http://www.html-js.com/)
+- [VueJs](https://vuejs.org/)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [JavaScript 参考](http://www.t086.com/code/js_ref/contents.htm)
+- [HTML5中国：中国最大的HTML5中文门户](http://www.html5cn.org/)
+- [JavaScript 参考手册](http://www.w3school.com.cn/jsref/index.asp)
+- [用ajax技术实现无闪烁定时刷新页面](http://www.cnblogs.com/kyle_chen/archive/2009/01/08/1354390.html)
+- [jQuery Ajax 实例 全解析](http://www.cnblogs.com/yeer/archive/2009/07/23/1529460.html)
+- [Jquery getJSON方法分析](http://www.cnblogs.com/jams742003/archive/2009/12/25/1632276.html)
+- [JS延迟加载或JS最后加载加快网页打开速度](http://www.php100.com/html/webkaifa/javascript/2009/0608/2972.html)
+- [ajax 提交表单](http://www.cnblogs.com/xinyu126/articles/1598375.html)
+- [jQuery中绑定事件的命名空间详解](http://www.jb51.net/article/26737.htm)
 
 ## Android
 
