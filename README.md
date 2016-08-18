@@ -143,6 +143,23 @@
 - [启用php-fpm状态详解](http://www.ttlsa.com/php/use-php-fpm-status-page-detail/)
 - [PHP:不向后兼容的变更](http://php.net/manual/zh/migration70.incompatible.php)
 - [编译php常见问题](http://cdoco.com/2016/02/20/php-faq/)
+- [php 使用curl模拟登录discuz以及模拟发帖](http://www.cnblogs.com/tianxin2001x/archive/2009/10/28/1591311.html)
+- [curl模拟表单上传文件](http://www.cnblogs.com/eucy/archive/2012/03/15/2397589.html)
+- [curl模拟登陆](http://www.cnblogs.com/xingyong/archive/2011/07/17/2108634.html)
+- [php搞定ip伪装](http://blog.sina.com.cn/s/blog_4a1f76860100uy43.html)
+- [PHP：Snoopy抓取页面以及模拟提交表单](http://blog.163.com/chqtext@126/blog/static/2740533720111129734106/)
+- [PHP采集利器 Snoopy 试用心得](http://www.codesky.net/article/201202/163586.html)
+- [使Windows 7下PHP支持cUrl扩展](http://loosky.net/1036.html)
+- [php 解析xml 的四种方法](http://www.cnblogs.com/likwo/archive/2011/08/24/2151793.html)
+- [php判断字符串是不是xml格式](http://wufoxfm95.iteye.com/blog/1226860)
+- [五种常见的 PHP 设计模式](http://www.ibm.com/developerworks/cn/opensource/os-php-designptrns/)
+- [php设计模式介绍之工厂模式](http://www.blueidea.com/tech/program/2008/5860_8.asp)
+- [PHP 的命令行模式](http://cn2.php.net/cli)
+- [php设计模式小结](http://www.jb51.net/article/34035.htm)
+- [php 设计模式](http://www.cnblogs.com/siqi/archive/2012/09/09/2667562.html)
+- [php检测访问者是否为手机](http://blog.csdn.net/ihelloworld/article/details/7702328)
+- [PHP 大日志文件读写](http://www.oschina.net/code/snippet_107609_10991)
+- [php聊天室架构及代码](http://blog.csdn.net/woihh/article/details/2293652)
 
 ## Android
 
@@ -155,6 +172,14 @@
 - [Memcache](http://memcached.org/) - Memcached 官方网站
 - [Memcache 内存分配策略和性能(使用)状态检查](http://www.cnblogs.com/zhoujinyi/p/5554083.html)
 - [Memcache的mutex设计模式 -- 高并发解决方案](http://www.cnblogs.com/52php/p/5677648.html)
+- [memcache分布式 [一致性hash算法] 的php实现 ](http://www.phpchina.com/forum.php?mod=viewthread&tid=233897)
+- [memcache的一致性hash算法使用](http://blog.csdn.net/kongqz/article/details/6695417)
+- [对memcache分布式的一点理解](http://www.cnblogs.com/mxw09/archive/2011/08/16/2141457.html)
+- [在Linux上安装Memcached服务](http://www.cnblogs.com/zgx/archive/2011/08/10/2134097.html)
+- [Redis与Memcached的区别](http://blog.csdn.net/tonysz126/article/details/8280696)
+- [Memcache知识点梳理](http://369369.blog.51cto.com/319630/833234/)
+- [memcache 内存管理 机制](http://www.open-open.com/lib/view/open1376034527667.html)
+- [memcache/memcached/memcachedb 配置、安装](http://www.cnblogs.com/zengen/archive/2010/12/07/1874031.html)
 
 ## Redis
 
@@ -164,14 +189,14 @@
 
 - [Linux kernel](https://github.com/torvalds/linux) - Linux 源码, gihub 地址
 - [elementary OS](http://elementary.io/) - 号称最漂亮的桌面 Linux 系统
-- [Fedora](https://getfedora.org/)
-- [Linux Mint](http://linuxmint.com/)
-- [Ubuntu](http://www.ubuntu.com/)
-- [CentOS](https://www.centos.org/)
-- [Debian GNU/Linux](https://www.debian.org/)
-- [Mageia](http://www.mageia.org/)
-- [Arch Linux](https://www.archlinux.org/)
-- [Kali](http://www.kali.org/)
+- [Fedora](https://getfedora.org/) - Fedora 是一个 Linux 发行版，是一款由全球社区爱好者构建的面向日常应用的快速、稳定、强大的操作系统
+- [Linux Mint](http://linuxmint.com/) - Linux Mint 是一份基于 Debian 和 Ubuntu 的 Linux发行版
+- [Ubuntu](http://www.ubuntu.com/) - Ubuntu（乌班图）是一个以桌面应用为主的Linux操作系统
+- [CentOS](https://www.centos.org/) - CentOS 是 Linux 发行版之一，它是来自于 Red Hat Enterprise Linux 依照开放源代码规定释出的源代码所编译而成
+- [Debian GNU/Linux](https://www.debian.org/) - Debian GNU/Linux，简称 Debian ，一款Linux发行版，是为数极少的纯社区驱动的Linux发行版
+- [Mageia](http://www.mageia.org/) - Mageia 是一个基于 Mandriva Linux 的新发行版
+- [Arch Linux](https://www.archlinux.org/) - Arch Linux(或称Arch) 是一种以轻量简洁为设计理念的 Linux 发行版
+- [Kali](http://www.kali.org/) - Kali 是一个基于 Debian 的 Linux 发行版，包含很多安全和取证方面的相关工具
 
 ## Docker
 
