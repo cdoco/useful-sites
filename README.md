@@ -153,6 +153,7 @@
 - [编译php常见问题](http://cdoco.com/2016/02/20/php-faq/)
 - [php 使用curl模拟登录discuz以及模拟发帖](http://www.cnblogs.com/tianxin2001x/archive/2009/10/28/1591311.html)
 - [curl模拟表单上传文件](http://www.cnblogs.com/eucy/archive/2012/03/15/2397589.html)
+- [curl模拟登陆并跳转](http://icodeall.com/archives/16/)
 - [curl模拟登陆](http://www.cnblogs.com/xingyong/archive/2011/07/17/2108634.html)
 - [php搞定ip伪装](http://blog.sina.com.cn/s/blog_4a1f76860100uy43.html)
 - [PHP：Snoopy抓取页面以及模拟提交表单](http://blog.163.com/chqtext@126/blog/static/2740533720111129734106/)
@@ -203,10 +204,14 @@
 - [Memcache知识点梳理](http://369369.blog.51cto.com/319630/833234/)
 - [memcache 内存管理 机制](http://www.open-open.com/lib/view/open1376034527667.html)
 - [memcache/memcached/memcachedb 配置、安装](http://www.cnblogs.com/zengen/archive/2010/12/07/1874031.html)
+- [Memcached Slab内存分配算法](http://icodeall.com/archives/24/)
+- [缓存淘汰算法LRU与LFU](http://icodeall.com/archives/25/)
 
 ## Redis
 
 - [Redis](http://redis.io/) - Redis 官方网站
+- [Redis中的内存淘汰机制](http://icodeall.com/archives/26/)
+- [Redis持久化](http://icodeall.com/archives/27/)
 
 ## Linux
 
