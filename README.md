@@ -127,13 +127,13 @@
 
 - [深入理解PHP内核](http://www.php-internals.com/) - TIPI项目是一个自发项目, 项目主要关注PHP的内部实现, 以及PHP相关的方方面面
 - [PHP-CPP](http://www.php-cpp.com/) - php 的一个 C++ 库, 可以用 C++ 来写 php扩展
-- [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md)
+- [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md) - 写 php 扩展必看之书
+- [Zephir](https://zephir-lang.com/) - 可以把类似 php 的代码反编译成 php 的扩展, Phalcon 的实现核心
 - [用PHP扩展实现类](http://cdoco.com/2016/03/09/php-ext-class/)
 - [第一个cpp php 扩展](http://donbe.blog.163.com/blog/static/13804802120102152191683/)
 - [PHP内核中的神器之HashTable](http://blog.csdn.net/a600423444/article/details/8850617)
 - [PHP内核探索：PHP哈希算法设计](http://www.nowamagic.net/librarys/veda/detail/1349)
 - [深入PHP内核：内核利器哈希表与哈希碰撞攻击](http://www.csdn.net/article/2014-10-16/2822134)
-- [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
 - [PHP内核探索：使用哈希表API](http://www.nowamagic.net/librarys/veda/detail/1456)
 - [PHP内核中读取$_GET\$_POST等全局变量](http://blog.csdn.net/a600423444/article/details/7678164)
 - [在Windows下编译PHP和PHP扩展](https://blog.ianli.site/2013/09/build-php-and-extension-for-windows/)
@@ -145,6 +145,7 @@
 ### PHP相关文章 
 
 - [LNMP一键安装](http://lnmp.org/)
+- [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
 - [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
 - [深入理解Yii2.0](http://www.digpage.com/)
