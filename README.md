@@ -17,6 +17,7 @@
     - [扩展开发](#扩展开发)
     - [PHP相关文章](#php相关文章)
 - [前端](#前端)
+- [Git](#git)
 - [Android](#android)
 - [Memcache](#memcache)
 - [Redis](#redis)
@@ -48,6 +49,7 @@
 - [惠新宸](http://www.laruence.com/) - PHP开发组核心成员, Zend顾问, PHP7主要开发者, Yaf, Yar, Yac等开源项目作者
 - [寸谋](http://www.cunmou.com/) - 原 walu 的博客, 《PHP扩展开发及内核应用》中文翻译的作者
 - [阮一峰](http://www.ruanyifeng.com/) - 《ECMAScript 6入门》的作者, 《黑客与画家》中文翻译人员
+- [廖雪峰](http://www.liaoxuefeng.com/) - 技术作家，著有《Spring 2.0核心技术与最佳实践》
 - [韩天峰](http://rango.swoole.com/) - swoole 框架的作者
 - [黑夜路人](http://blog.csdn.net/heiyeshuwu) - 无需多说, 资深人士
 
@@ -175,6 +177,7 @@
 
 - [前端乱炖, 最专业的前端技术内容社区](http://www.html-js.com/)
 - [VueJs](https://vuejs.org/)
+- [JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [JavaScript 参考](http://www.t086.com/code/js_ref/contents.htm)
 - [HTML5中国：中国最大的HTML5中文门户](http://www.html5cn.org/)
@@ -185,6 +188,12 @@
 - [JS延迟加载或JS最后加载加快网页打开速度](http://www.php100.com/html/webkaifa/javascript/2009/0608/2972.html)
 - [ajax 提交表单](http://www.cnblogs.com/xinyu126/articles/1598375.html)
 - [jQuery中绑定事件的命名空间详解](http://www.jb51.net/article/26737.htm)
+
+## Git
+
+- [Git](https://git-scm.com/) - Git 官网
+- [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰的 git 教程
+- [Pro Git 中文版](http://git.oschina.net/progit/)
 
 ## Android
 
