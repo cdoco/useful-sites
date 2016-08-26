@@ -64,6 +64,8 @@
 - [动画展示各种路径搜索算法](http://www.webhek.com/pathfinding)
 - [趣味算法：字符串反转的N种方法](http://www.cnblogs.com/kirinboy/archive/2010/04/23/reverse-a-string.html)
 - [五分钟理解一致性哈希算法(consistent hashing)](http://blog.csdn.net/cywosp/article/details/23397179/)
+- [如果你看不懂KMP算法，那就看一看这篇文章](http://www.tuicool.com/articles/e2Qbyyf)
+- [KMP算法详解](http://blog.csdn.net/joylnwang/article/details/6778316/)
 
 ## 架构
 
@@ -180,6 +182,7 @@
 - [JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com/)
 - [JavaScript 参考](http://www.t086.com/code/js_ref/contents.htm)
+- [vue.js 由浅至深学习宝典](http://vue-js.com/topic/56cfc64965cf1c422e006834)
 - [HTML5中国：中国最大的HTML5中文门户](http://www.html5cn.org/)
 - [JavaScript 参考手册](http://www.w3school.com.cn/jsref/index.asp)
 - [用ajax技术实现无闪烁定时刷新页面](http://www.cnblogs.com/kyle_chen/archive/2009/01/08/1354390.html)
