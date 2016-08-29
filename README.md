@@ -266,6 +266,8 @@
 - [Docker学习笔记--Docker常用命令](http://www.tuicool.com/articles/7V7vYn)
 - [docker强制批量删除none的image镜像](http://www.tuicool.com/articles/R7jMZfq)
 - [基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
+- [Docker 学习笔记](http://blog.opskumu.com/docker.html)
+- [Docker之常用命令](http://blog.chinaunix.net/uid-10915175-id-4443127.html)
 
 ## Vagrant
 
