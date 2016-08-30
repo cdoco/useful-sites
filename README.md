@@ -115,6 +115,7 @@
 
 - [Yaf](https://github.com/laruence/yaf) - 用 C 扩展写的框架
 - [Slim](http://www.slimframework.com/) - 一个轻量级的框架
+- [Swoole](http://www.swoole.com/) - PHP的异步、并行、高性能网络通信引擎
 - [Aura PHP](http://auraphp.com/) - 一个独立的组件框架
 - [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架 (CP)
 - [Laravel 5](https://laravel.com/) - 另一个 PHP 框架 (L5)
@@ -150,6 +151,7 @@
 
 - [LNMP一键安装](http://lnmp.org/)
 - [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
+- [基于swoole的Hprose for PHP 开发后端API服务 实践](http://www.keyunq.com/server/hprose-php-swoole.html)
 - [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
 - [深入理解Yii2.0](http://www.digpage.com/)
