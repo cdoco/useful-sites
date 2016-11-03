@@ -4,8 +4,9 @@
 
 ## 目录
 
-- [搜索引擎](#搜索引擎)
-- [在线生成工具](#在线生成工具)
+- [搜索](#搜索)
+- [工具](#工具)
+    - [在线生成工具](#在线生成工具)
 - [博客](#博客)
 - [算法](#算法)
 - [架构](#架构)
@@ -14,17 +15,21 @@
     - [官方资源](#官方资源)
     - [框架](#框架)
     - [扩展开发](#扩展开发)
-    - [其他文章](#其他文章)
+    - [PHP相关文章](#php相关文章)
+- [前端](#前端)
+- [Git](#git)
 - [Android](#android)
 - [Memcache](#memcache)
 - [Redis](#redis)
-- [Shell](#shell)
+- [Zsh](#zsh)
 - [Linux](#linux)
+    - [发行版官方网站](#发行版官方网站)
+    - [Linux相关文章](#linux相关文章)
 - [Docker](#docker)
 - [Vagrant](#vagrant)
 - [VPN](#vpn)
 
-## 搜索引擎
+## 搜索
 
 - [ElasticSearch](https://www.elastic.co/products/elasticsearch) - ElasticSearch是一个基于Lucene的搜索服务器
 - [Solr](http://lucene.apache.org/solr/) - Solr是一个独立的企业级搜索应用服务器，它对外提供类似于Web-service的API接口
@@ -32,7 +37,9 @@
 - [Sphinx](http://sphinxsearch.com/) - Sphinx是一个基于SQL的全文检索引擎
 - [Elasticsearch 权威指南](http://es.xiaoleilu.com/)
 
-## 在线生成工具
+## 工具
+
+### 在线生成工具
 
 - [在线工具合集](http://tool.lu/) - 集成了很多好用的在线工具
 - [Bejson](http://www.bejson.com/) - 在线 json 格式化工具
@@ -44,6 +51,7 @@
 - [惠新宸](http://www.laruence.com/) - PHP开发组核心成员, Zend顾问, PHP7主要开发者, Yaf, Yar, Yac等开源项目作者
 - [寸谋](http://www.cunmou.com/) - 原 walu 的博客, 《PHP扩展开发及内核应用》中文翻译的作者
 - [阮一峰](http://www.ruanyifeng.com/) - 《ECMAScript 6入门》的作者, 《黑客与画家》中文翻译人员
+- [廖雪峰](http://www.liaoxuefeng.com/) - 技术作家，著有《Spring 2.0核心技术与最佳实践》
 - [韩天峰](http://rango.swoole.com/) - swoole 框架的作者
 - [黑夜路人](http://blog.csdn.net/heiyeshuwu) - 无需多说, 资深人士
 
@@ -58,6 +66,8 @@
 - [动画展示各种路径搜索算法](http://www.webhek.com/pathfinding)
 - [趣味算法：字符串反转的N种方法](http://www.cnblogs.com/kirinboy/archive/2010/04/23/reverse-a-string.html)
 - [五分钟理解一致性哈希算法(consistent hashing)](http://blog.csdn.net/cywosp/article/details/23397179/)
+- [如果你看不懂KMP算法，那就看一看这篇文章](http://www.tuicool.com/articles/e2Qbyyf)
+- [KMP算法详解](http://blog.csdn.net/joylnwang/article/details/6778316/)
 
 ## 架构
 
@@ -106,6 +116,8 @@
 ### 框架
 
 - [Yaf](https://github.com/laruence/yaf) - 用 C 扩展写的框架
+- [Slim](http://www.slimframework.com/) - 一个轻量级的框架
+- [Swoole](http://www.swoole.com/) - PHP的异步、并行、高性能网络通信引擎
 - [Aura PHP](http://auraphp.com/) - 一个独立的组件框架
 - [CakePHP](http://cakephp.org/) - 一个快速应用程序开发框架 (CP)
 - [Laravel 5](https://laravel.com/) - 另一个 PHP 框架 (L5)
@@ -122,13 +134,13 @@
 
 - [深入理解PHP内核](http://www.php-internals.com/) - TIPI项目是一个自发项目, 项目主要关注PHP的内部实现, 以及PHP相关的方方面面
 - [PHP-CPP](http://www.php-cpp.com/) - php 的一个 C++ 库, 可以用 C++ 来写 php扩展
-- [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md)
+- [PHP扩展开发及内核应用](http://www.cunmou.com/phpbook/index.md) - 写 php 扩展必看之书
+- [Zephir](https://zephir-lang.com/) - 可以把类似 php 的代码反编译成 php 的扩展, Phalcon 的实现核心
 - [用PHP扩展实现类](http://cdoco.com/2016/03/09/php-ext-class/)
 - [第一个cpp php 扩展](http://donbe.blog.163.com/blog/static/13804802120102152191683/)
 - [PHP内核中的神器之HashTable](http://blog.csdn.net/a600423444/article/details/8850617)
 - [PHP内核探索：PHP哈希算法设计](http://www.nowamagic.net/librarys/veda/detail/1349)
 - [深入PHP内核：内核利器哈希表与哈希碰撞攻击](http://www.csdn.net/article/2014-10-16/2822134)
-- [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
 - [PHP内核探索：使用哈希表API](http://www.nowamagic.net/librarys/veda/detail/1456)
 - [PHP内核中读取$_GET\$_POST等全局变量](http://blog.csdn.net/a600423444/article/details/7678164)
 - [在Windows下编译PHP和PHP扩展](https://blog.ianli.site/2013/09/build-php-and-extension-for-windows/)
@@ -137,8 +149,11 @@
 - [用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
 - [Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
 
-### 其他文章 
+### PHP相关文章 
 
+- [LNMP一键安装](http://lnmp.org/)
+- [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
+- [基于swoole的Hprose for PHP 开发后端API服务 实践](http://www.keyunq.com/server/hprose-php-swoole.html)
 - [概念了解：CGI，FastCGI，PHP-CGI与PHP-FPM](http://www.nowamagic.net/librarys/veda/detail/1319)
 - [PHP程序员的技术成长规划](http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201722585&idx=1&sn=7bd39edfbbdecedd5317b0191df4f4b8&scene=1&from=singlemessage&isappinstalled=0%23rd)
 - [深入理解Yii2.0](http://www.digpage.com/)
@@ -147,6 +162,7 @@
 - [编译php常见问题](http://cdoco.com/2016/02/20/php-faq/)
 - [php 使用curl模拟登录discuz以及模拟发帖](http://www.cnblogs.com/tianxin2001x/archive/2009/10/28/1591311.html)
 - [curl模拟表单上传文件](http://www.cnblogs.com/eucy/archive/2012/03/15/2397589.html)
+- [curl模拟登陆并跳转](http://icodeall.com/archives/16/)
 - [curl模拟登陆](http://www.cnblogs.com/xingyong/archive/2011/07/17/2108634.html)
 - [php搞定ip伪装](http://blog.sina.com.cn/s/blog_4a1f76860100uy43.html)
 - [PHP：Snoopy抓取页面以及模拟提交表单](http://blog.163.com/chqtext@126/blog/static/2740533720111129734106/)
@@ -162,6 +178,29 @@
 - [php检测访问者是否为手机](http://blog.csdn.net/ihelloworld/article/details/7702328)
 - [PHP 大日志文件读写](http://www.oschina.net/code/snippet_107609_10991)
 - [php聊天室架构及代码](http://blog.csdn.net/woihh/article/details/2293652)
+
+## 前端
+
+- [前端乱炖, 最专业的前端技术内容社区](http://www.html-js.com/)
+- [VueJs](https://vuejs.org/)
+- [JavaScript教程](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)
+- [ECMAScript 6入门](http://es6.ruanyifeng.com/)
+- [JavaScript 参考](http://www.t086.com/code/js_ref/contents.htm)
+- [vue.js 由浅至深学习宝典](http://vue-js.com/topic/56cfc64965cf1c422e006834)
+- [HTML5中国：中国最大的HTML5中文门户](http://www.html5cn.org/)
+- [JavaScript 参考手册](http://www.w3school.com.cn/jsref/index.asp)
+- [用ajax技术实现无闪烁定时刷新页面](http://www.cnblogs.com/kyle_chen/archive/2009/01/08/1354390.html)
+- [jQuery Ajax 实例 全解析](http://www.cnblogs.com/yeer/archive/2009/07/23/1529460.html)
+- [Jquery getJSON方法分析](http://www.cnblogs.com/jams742003/archive/2009/12/25/1632276.html)
+- [JS延迟加载或JS最后加载加快网页打开速度](http://www.php100.com/html/webkaifa/javascript/2009/0608/2972.html)
+- [ajax 提交表单](http://www.cnblogs.com/xinyu126/articles/1598375.html)
+- [jQuery中绑定事件的命名空间详解](http://www.jb51.net/article/26737.htm)
+
+## Git
+
+- [Git](https://git-scm.com/) - Git 官网
+- [Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰的 git 教程
+- [Pro Git 中文版](http://git.oschina.net/progit/)
 
 ## Android
 
@@ -182,28 +221,53 @@
 - [Memcache知识点梳理](http://369369.blog.51cto.com/319630/833234/)
 - [memcache 内存管理 机制](http://www.open-open.com/lib/view/open1376034527667.html)
 - [memcache/memcached/memcachedb 配置、安装](http://www.cnblogs.com/zengen/archive/2010/12/07/1874031.html)
+- [Memcached Slab内存分配算法](http://icodeall.com/archives/24/)
+- [缓存淘汰算法LRU与LFU](http://icodeall.com/archives/25/)
 
 ## Redis
 
 - [Redis](http://redis.io/) - Redis 官方网站
+- [Redis中的内存淘汰机制](http://icodeall.com/archives/26/)
+- [Redis持久化](http://icodeall.com/archives/27/)
 
-## Shell
+## Zsh
 
 - [zsh](http://www.zsh.org/) - Linux 的一种 shell
 - [oh-my-zsh](http://ohmyz.sh/) - 好用的 zsh 框架
 
 ## Linux
 
+### 发行版官方网站
+
 - [Linux kernel](https://github.com/torvalds/linux) - Linux 源码, gihub 地址
 - [elementary OS](http://elementary.io/) - 号称最漂亮的桌面 Linux 系统
-- [Fedora](https://getfedora.org/)
-- [Linux Mint](http://linuxmint.com/)
-- [Ubuntu](http://www.ubuntu.com/)
-- [CentOS](https://www.centos.org/)
-- [Debian GNU/Linux](https://www.debian.org/)
-- [Mageia](http://www.mageia.org/)
-- [Arch Linux](https://www.archlinux.org/)
-- [Kali](http://www.kali.org/)
+- [Fedora](https://getfedora.org/) - Fedora 是一个 Linux 发行版，是一款由全球社区爱好者构建的面向日常应用的快速、稳定、强大的操作系统
+- [Linux Mint](http://linuxmint.com/) - Linux Mint 是一份基于 Debian 和 Ubuntu 的 Linux发行版
+- [Ubuntu](http://www.ubuntu.com/) - Ubuntu（乌班图）是一个以桌面应用为主的Linux操作系统
+- [CentOS](https://www.centos.org/) - CentOS 是 Linux 发行版之一，它是来自于 Red Hat Enterprise Linux 依照开放源代码规定释出的源代码所编译而成
+- [Debian GNU/Linux](https://www.debian.org/) - Debian GNU/Linux，简称 Debian ，一款Linux发行版，是为数极少的纯社区驱动的Linux发行版
+- [Mageia](http://www.mageia.org/) - Mageia 是一个基于 Mandriva Linux 的新发行版
+- [Arch Linux](https://www.archlinux.org/) - Arch Linux(或称Arch) 是一种以轻量简洁为设计理念的 Linux 发行版
+- [Kali](http://www.kali.org/) - Kali 是一个基于 Debian 的 Linux 发行版，包含很多安全和取证方面的相关工具
+
+### Linux相关文章
+
+- [Linux常用命令合集](http://itlab.idcquan.com/linux/special/linuxcom/)
+- [五分钟内搭建 Linux 0.11 的实验环境](http://www.tinylab.org/take-5-minutes-to-build-linux-0-11-experiment-envrionment/)
+- [pidstat - 监控并统计Linux进程的数据](http://www.th7.cn/system/lin/201501/80420.shtml)
+- [Linux mount Windows目录遇到 write-protected 问题](http://blog.csdn.net/yasi_xi/article/details/38356247)
+- [Linux下搭建DNS教程,怎么\如何搭建DNS服务器](http://jingyan.baidu.com/article/454316ab56277df7a6c03a6a.html)
+- [Linux tcpdump命令详解](http://www.cnblogs.com/ggjucheng/archive/2012/01/14/2322659.html)
+- [Linux中压缩、解压缩(tar/zip/bzip2/gz/gzip/zip)](http://blog.sina.com.cn/s/blog_9fc1dd8501013fsv.html)
+- [linux系统引导流程详解](http://blog.csdn.net/mayanling0113/article/details/7064672)
+- [Centos学习笔记—系统引导](http://blog.csdn.net/wangyaninglm/article/details/7256571)
+- [Linux用户管理](http://www.cnblogs.com/feisky/archive/2009/11/22/1607931.html)
+- [CentOS中vsftp安装与配置](http://my.oschina.net/u/130017/blog/15229)
+- [CentOS 5.5下FTP安装及配置](http://www.blogjava.net/Alpha/archive/2012/02/02/369246.html)
+- [iptables 命令](http://www.cnblogs.com/wangkangluo1/archive/2012/04/19/2457063.html)
+- [linux之ACL授权](http://hanqunfeng.iteye.com/blog/2007674)
+- [如何在Linux下统计高速网络中的流量](http://www.geekfan.net/5558/)
+- [Linux 下git的安装](http://lzqustc.iteye.com/blog/415735)
 
 ## Docker
 
@@ -211,6 +275,8 @@
 - [Docker学习笔记--Docker常用命令](http://www.tuicool.com/articles/7V7vYn)
 - [docker强制批量删除none的image镜像](http://www.tuicool.com/articles/R7jMZfq)
 - [基于kubernetes构建Docker集群管理详解](http://blog.liuts.com/post/247/)
+- [Docker 学习笔记](http://blog.opskumu.com/docker.html)
+- [Docker之常用命令](http://blog.chinaunix.net/uid-10915175-id-4443127.html)
 
 ## Vagrant
 
@@ -223,3 +289,5 @@
 - [GreenVPN](https://www.getgreenjsq.org) - 鄙人一直在用的VPN
 - [SS-Link](http://www.ss-link.com/) - 专业提供Shadowsocks账号
 - [Shadowsocks](https://shadowsocks.com/)
+
+**[⬆ top](#目录)**
