@@ -7,6 +7,7 @@
 - [搜索](#搜索)
 - [工具](#工具)
     - [在线生成工具](#在线生成工具)
+    - [抓包工具](#抓包工具)
 - [博客](#博客)
 - [算法](#算法)
 - [架构](#架构)
@@ -45,6 +46,14 @@
 - [Bejson](http://www.bejson.com/) - 在线 json 格式化工具
 - [草料二维码](http://cli.im/) - 在线生成二维码
 - [在线编码转换](http://tool.oschina.net/encode?type=4) - 在线 urldecode 工具
+
+### 抓包工具
+
+- [Mitmproxy](https://mitmproxy.org/)
+    - [Mitmproxy 是怎么工作的？](http://www.oschina.net/translate/how-mitmproxy-works)
+    - [一步一步教你 https 抓包](https://mp.weixin.qq.com/s?__biz=MzI0ODA2ODU2NQ==&mid=2651130975&idx=1&sn=4428ad76c0a64feda19c22bb01653b19&chksm=f257cce5c52045f374ca88cf9e80ea1973ad8e170efe525d4a82181f576d4bb813036d1f6c7e&scene=0&key=630df40d85cb236be9a9e15664818b400846b0c8eec8b538386746820db79d38b791d96e462eb48a685ee067ffefdd1dde3372b1f583f53d441fdb620908f255c81cc0f973798a14657c5cb11a4bd083&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
+- [Wireshark](https://www.wireshark.org/)
+
 
 ## 博客
 
@@ -178,6 +187,8 @@
 - [php检测访问者是否为手机](http://blog.csdn.net/ihelloworld/article/details/7702328)
 - [PHP 大日志文件读写](http://www.oschina.net/code/snippet_107609_10991)
 - [php聊天室架构及代码](http://blog.csdn.net/woihh/article/details/2293652)
+- [php 设计模式](http://www.cnblogs.com/siqi/archive/2012/09/09/2667562.html)
+- [PHP7内核剖析之变量的内部实现](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517369&idx=1&sn=2986d015d7c3c04d625961024aeeb911&chksm=f2efe2f9c5986befaf0b0e5265f5f36d930413a37b9632fa347d8d9cce78ecc78ffb778639fe&mpshare=1&scene=2&srcid=0223q41auj7i8X8Oa5rZcUew&key=bf3b92f02199be1ca4efb1df4baaa7e0b5782ad1938b781c4561c06d3bec8c9cbfb61a35b71a06799007a21aad5be552f824bad5666a4f110ecbc8395381ce65ea7e35a935079841124d01ba67f33344&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
 
 ## 前端
 
@@ -268,6 +279,7 @@
 - [linux之ACL授权](http://hanqunfeng.iteye.com/blog/2007674)
 - [如何在Linux下统计高速网络中的流量](http://www.geekfan.net/5558/)
 - [Linux 下git的安装](http://lzqustc.iteye.com/blog/415735)
+- [Linux性能调优工具大全](https://mp.weixin.qq.com/s?__biz=MzA3MzYwNjQ3NA==&mid=2651297611&idx=1&sn=da7d4c375d5a062d0cdbefd6960dc229&chksm=84ff436eb388ca7873f2520f259ab7db692992fba24b4e28b192f01e627d08b69467e55a40e9&mpshare=1&scene=2&srcid=0206P9jhKWrsmZDp7mFITurQ&key=0f5e635eeb6bf20ac7b081d9f1abea11b33904ca047f9b10de8365085bf1582b13cb7ae8225c034b4bc93e2428c607fbea5b9a999a879352a333d9bd954a0355aa05f6622d390c9d732a368f6a88a695&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
 
 ## Docker
 
@@ -289,5 +301,6 @@
 - [GreenVPN](https://www.getgreenjsq.org) - 鄙人一直在用的VPN
 - [SS-Link](http://www.ss-link.com/) - 专业提供Shadowsocks账号
 - [Shadowsocks](https://shadowsocks.com/)
+- [Shadowsocks搭建以及用锐速加速](http://www.jianshu.com/p/65128dd81827)
 
 **[⬆ top](#目录)**
