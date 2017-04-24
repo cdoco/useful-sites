@@ -1,6 +1,6 @@
 # Useful Sites
 
-![Cdoco](http://cdoco.com/images/icon.gif)
+![Cdoco](http://www.cdoco.com/images/icon.gif)
 
 ## 目录
 
