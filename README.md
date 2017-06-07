@@ -106,6 +106,14 @@
 - [大型网站技术架构](http://blog.csdn.net/flanet/article/details/20563363)
 - [两地三中心到分布式多活的异地多活技术](http://blog.hehehehehe.cn/a/17879.htm)
 - [绝对干货:解密阿里巴巴“异地多活”技术](http://servers.pconline.com.cn/721/7215376.html)
+- [小米网抢购系统开发实践](http://www.csdn.net/article/2014-11-07/2822545)
+- [小米抢购限流峰值系统「大秒」架构解密](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=402182304&idx=1&sn=1bd68d72e6676ff782e92b0df8b07d35&scene=1&srcid=12045k1zDgO7DLlMLwimBKjC&from=groupmessage&isappinstalled=0#wechat_redirect)
+- [海尔电商峰值系统架构设计最佳实践](http://www.csdn.net/article/2014-11-11/2822577)
+- [唯品会峰值系统架构演变](http://www.csdn.net/article/2014-11-11/2822578)
+- [1号店电商峰值与流式计算](http://www.csdn.net/article/2014-11-11/2822579)
+- [蘑菇街如何在双11中创造99.99%的可用性](http://www.csdn.net/article/2014-11-11/2822597)
+- [蘑菇街电商交易平台服务架构及改造优化历程](http://mp.weixin.qq.com/s?__biz=MzAwMDU1MTE1OQ==&mid=2653547663&idx=1&sn=4de30a5a792d9442ef6015b554182913&scene=0#wechat_redirect)
+- [麦包包峰值架构实践](http://www.csdn.net/article/2014-11-11/2822581)
 
 ## 邮件
 
