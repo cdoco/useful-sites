@@ -8,24 +8,24 @@
 - [工具](#工具)
   - [在线生成工具](#在线生成工具)
   - [抓包工具](#抓包工具)
-- [博客](#博客)
 - [算法](#算法)
 - [架构](#架构)
 - [邮件](#邮件)
 - [PHP](#php)
-    - [官方资源](#官方资源)
-    - [框架](#框架)
-    - [扩展开发](#扩展开发)
-    - [PHP相关文章](#php相关文章)
+  - [官方资源](#官方资源)
+  - [框架](#框架)
+  - [扩展开发](#扩展开发)
+  - [PHP相关文章](#php相关文章)
 - [前端](#前端)
+- [博客](#博客)
 - [Git](#git)
 - [Android](#android)
 - [Memcache](#memcache)
 - [Redis](#redis)
 - [Zsh](#zsh)
 - [Linux](#linux)
-    - [发行版官方网站](#发行版官方网站)
-    - [Linux相关文章](#linux相关文章)
+  - [发行版官方网站](#发行版官方网站)
+  - [Linux相关文章](#linux相关文章)
 - [Docker](#docker)
 - [Vagrant](#vagrant)
 - [VPN](#vpn)
@@ -50,20 +50,9 @@
 ### 抓包工具
 
 - [Mitmproxy](https://mitmproxy.org/)
-    - [Mitmproxy 是怎么工作的？](http://www.oschina.net/translate/how-mitmproxy-works)
-    - [一步一步教你 https 抓包](https://mp.weixin.qq.com/s?__biz=MzI0ODA2ODU2NQ==&mid=2651130975&idx=1&sn=4428ad76c0a64feda19c22bb01653b19&chksm=f257cce5c52045f374ca88cf9e80ea1973ad8e170efe525d4a82181f576d4bb813036d1f6c7e&scene=0&key=630df40d85cb236be9a9e15664818b400846b0c8eec8b538386746820db79d38b791d96e462eb48a685ee067ffefdd1dde3372b1f583f53d441fdb620908f255c81cc0f973798a14657c5cb11a4bd083&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
+  - [Mitmproxy 是怎么工作的？](http://www.oschina.net/translate/how-mitmproxy-works)
+  - [一步一步教你 https 抓包](https://mp.weixin.qq.com/s?__biz=MzI0ODA2ODU2NQ==&mid=2651130975&idx=1&sn=4428ad76c0a64feda19c22bb01653b19&chksm=f257cce5c52045f374ca88cf9e80ea1973ad8e170efe525d4a82181f576d4bb813036d1f6c7e&scene=0&key=630df40d85cb236be9a9e15664818b400846b0c8eec8b538386746820db79d38b791d96e462eb48a685ee067ffefdd1dde3372b1f583f53d441fdb620908f255c81cc0f973798a14657c5cb11a4bd083&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
 - [Wireshark](https://www.wireshark.org/)
-
-## 博客
-
-- [惠新宸](http://www.laruence.com/) - PHP开发组核心成员, Zend顾问, PHP7主要开发者, Yaf, Yar, Yac等开源项目作者
-- [火丁笔记](https://huoding.com/) - 多研究些问题，少谈些主义。
-- [寸谋](http://www.cunmou.com/) - 原 walu 的博客, 《PHP扩展开发及内核应用》中文翻译的作者
-- [阮一峰](http://www.ruanyifeng.com/) - 《ECMAScript 6入门》的作者, 《黑客与画家》中文翻译人员
-- [廖雪峰](http://www.liaoxuefeng.com/) - 技术作家，著有《Spring 2.0核心技术与最佳实践》
-- [韩天峰](http://rango.swoole.com/) - swoole 框架的作者
-- [黑夜路人](http://blog.csdn.net/heiyeshuwu) - 无需多说, 资深人士
-- [云风](http://blog.codingnow.com/) - 真名吴云洋，曾任网易杭州研究中心总监，是网易《大话西游》、《梦幻西游》等游戏的主要开发者
 
 ## 算法
 
@@ -219,6 +208,17 @@
 - [JS延迟加载或JS最后加载加快网页打开速度](http://www.php100.com/html/webkaifa/javascript/2009/0608/2972.html)
 - [ajax 提交表单](http://www.cnblogs.com/xinyu126/articles/1598375.html)
 - [jQuery中绑定事件的命名空间详解](http://www.jb51.net/article/26737.htm)
+
+## 博客
+
+- [惠新宸](http://www.laruence.com/) - PHP开发组核心成员, Zend顾问, PHP7主要开发者, Yaf, Yar, Yac等开源项目作者
+- [火丁笔记](https://huoding.com/) - 多研究些问题，少谈些主义。
+- [寸谋](http://www.cunmou.com/) - 原 walu 的博客, 《PHP扩展开发及内核应用》中文翻译的作者
+- [阮一峰](http://www.ruanyifeng.com/) - 《ECMAScript 6入门》的作者, 《黑客与画家》中文翻译人员
+- [廖雪峰](http://www.liaoxuefeng.com/) - 技术作家，著有《Spring 2.0核心技术与最佳实践》
+- [韩天峰](http://rango.swoole.com/) - swoole 框架的作者
+- [黑夜路人](http://blog.csdn.net/heiyeshuwu) - 无需多说, 资深人士
+- [云风](http://blog.codingnow.com/) - 真名吴云洋，曾任网易杭州研究中心总监，是网易《大话西游》、《梦幻西游》等游戏的主要开发者
 
 ## Git
 
