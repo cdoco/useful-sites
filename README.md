@@ -1,13 +1,13 @@
 # Useful Sites
 
-![Cdoco](http://www.cdoco.com/images/icon.gif)
+![Cdoco](https://cdoco.com/images/icon.gif)
 
 ## 目录
 
 - [搜索](#搜索)
 - [工具](#工具)
-    - [在线生成工具](#在线生成工具)
-    - [抓包工具](#抓包工具)
+  - [在线生成工具](#在线生成工具)
+  - [抓包工具](#抓包工具)
 - [博客](#博客)
 - [算法](#算法)
 - [架构](#架构)
@@ -167,7 +167,7 @@
 - [用C/C++扩展你的PHP](http://www.laruence.com/2009/04/28/719.html)
 - [Windows下使用VS2010编译PHP5.4](http://www.tuicool.com/articles/Mr6ra2Q)
 
-### PHP相关文章 
+### PHP相关文章
 
 - [LNMP一键安装](http://lnmp.org/)
 - [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340?utm_source=tuicool&utm_medium=referral)
@@ -198,6 +198,10 @@
 - [php聊天室架构及代码](http://blog.csdn.net/woihh/article/details/2293652)
 - [php 设计模式](http://www.cnblogs.com/siqi/archive/2012/09/09/2667562.html)
 - [PHP7内核剖析之变量的内部实现](https://mp.weixin.qq.com/s?__biz=MzI0MjEwMDMzNQ==&mid=2652517369&idx=1&sn=2986d015d7c3c04d625961024aeeb911&chksm=f2efe2f9c5986befaf0b0e5265f5f36d930413a37b9632fa347d8d9cce78ecc78ffb778639fe&mpshare=1&scene=2&srcid=0223q41auj7i8X8Oa5rZcUew&key=bf3b92f02199be1ca4efb1df4baaa7e0b5782ad1938b781c4561c06d3bec8c9cbfb61a35b71a06799007a21aad5be552f824bad5666a4f110ecbc8395381ce65ea7e35a935079841124d01ba67f33344&ascene=0&uin=MjY3MDk0MjQw&devicetype=iMac+MacBookPro13%2C2+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=F%2FO3S7LeVaZHG7xeFvYpZ1E2d11g5rM3P8bLqxybCs0%3D)
+- [PHP - FPM信号机制](http://blog.csdn.net/mijar2016/article/details/54142546)
+- [PHP源码分析 - PHP-FPM运行原理](http://blog.csdn.net/mijar2016/article/details/53311986)
+- [PHP源码分析 - PHP-FPM运行模式详解](http://lib.csdn.net/article/php/55450?knId=945)
+- [PHP-FPM不完全指南](http://www.cnblogs.com/wpjamer/articles/7107839.html)
 
 ## 前端
 
