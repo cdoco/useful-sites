@@ -1,6 +1,4 @@
-# Useful Sites
-
-![Cdoco](https://cdoco.com/images/icon.gif)
+<div align="center"><img src="http://openlogos.org/logos/mr-jumbo.jpg" /></div>
 
 ## 目录
 
@@ -315,5 +313,9 @@
 - [SS-Link](http://www.ss-link.com/) - 专业提供Shadowsocks账号
 - [Shadowsocks](https://shadowsocks.com/)
 - [Shadowsocks搭建以及用锐速加速](http://www.jianshu.com/p/65128dd81827)
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file.
 
 **[⬆ top](#目录)**
